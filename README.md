@@ -10,7 +10,7 @@ During breaks from college, I work as an application development intern at MJ El
 - EF Core
 - Kendo UI Library
 - Frontend Development
-- Code Refactoring for Maintability
+- Code Refactoring for Maintainability
 
 In my free time, my favorite places to be are with my family or outside enjoying the beautiful nature in Michigan's Upper Peninsula: snowshoeing, hiking, snowmobiling, or other such activities.
 
